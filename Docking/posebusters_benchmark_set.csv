@@ -1,0 +1,15 @@
+dataset,method,RMSD¡Ü 2 ? ,PB-Valid,RMSD ¡Ü 2 ? & PB-Valid
+posebusters_benchmark_set,AutoDock_Vina,51.86915888,78.97196262,48.13084112
+posebusters_benchmark_set,glideSP,58.41121495,97.89719626,57.94392523
+posebusters_benchmark_set,DiffBindFR_MDN,50.93457944,47.19626168,33.87850467
+posebusters_benchmark_set,DiffBindFR_Smina,47.6635514,46.72897196,34.57943925
+posebusters_benchmark_set,DynamicBind,21.02803738,11.91588785,7.476635514
+posebusters_benchmark_set,DynamicBind_Relaxed,21.96261682,19.85981308,10.74766355
+posebusters_benchmark_set,SurfDock,77.3364486,45.79439252,39.25233645
+posebusters_benchmark_set,GAABind,50.93457944,6.775700935,3.971962617
+posebusters_benchmark_set,Interformer_Energy,59.57943925,71.96261682,46.26168224
+posebusters_benchmark_set,Interformer_PoseScore,57.24299065,70.56074766,44.1588785
+posebusters_benchmark_set,KarmaDock,42.99065421,0.23364486,0
+posebusters_benchmark_set,KarmaDock_aligned,34.11214953,10.04672897,6.308411215
+posebusters_benchmark_set,KarmaDock_FF,41.12149533,2.803738318,1.168224299
+posebusters_benchmark_set,QuickBind,15.88785047,1.168224299,0

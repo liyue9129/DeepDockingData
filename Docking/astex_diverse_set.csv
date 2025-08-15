@@ -1,0 +1,15 @@
+dataset,method,RMSD¡Ü 2 ? ,PB-Valid,RMSD ¡Ü 2 ? & PB-Valid
+astex_diverse_set,AutoDock_Vina,58.82352941,82.35294118,52.94117647
+astex_diverse_set,glideSP,70.58823529,97.64705882,70.58823529
+astex_diverse_set,DiffBindFR_MDN,75.29411765,72.94117647,65.88235294
+astex_diverse_set,DiffBindFR_Smina,75.29411765,70.58823529,64.70588235
+astex_diverse_set,DynamicBind,48.23529412,30.58823529,21.17647059
+astex_diverse_set,DynamicBind_Relaxed,49.41176471,47.05882353,30.58823529
+astex_diverse_set,SurfDock,91.76470588,63.52941176,61.17647059
+astex_diverse_set,GAABind,61.17647059,7.058823529,5.882352941
+astex_diverse_set,Interformer_Energy,81.17647059,72.94117647,68.23529412
+astex_diverse_set,Interformer_PoseScore,71.76470588,71.76470588,55.29411765
+astex_diverse_set,KarmaDock,68.23529412,0,0
+astex_diverse_set,KarmaDock_aligned,55.29411765,14.11764706,10.58823529
+astex_diverse_set,KarmaDock_FF,68.23529412,0,0
+astex_diverse_set,QuickBind,58.82352941,1.176470588,1.176470588

@@ -1,0 +1,90 @@
+########### seq smi 0.1 have 4 names ###########
+1IG3_VIB
+1SG0_STL
+1G9V_RQ3
+1R9O_FLP
+########### seq smi 0.2 have 4 names ###########
+1IG3_VIB
+1SG0_STL
+1G9V_RQ3
+1R9O_FLP
+########### seq smi 0.3 have 6 names ###########
+1IG3_VIB
+1SG0_STL
+1T9B_1CS
+1U1C_BAU
+1G9V_RQ3
+1R9O_FLP
+########### seq smi 0.4 have 7 names ###########
+1IG3_VIB
+1SG0_STL
+1T9B_1CS
+1U1C_BAU
+1G9V_RQ3
+1IA1_TQ3
+1R9O_FLP
+########### seq smi 0.5 have 8 names ###########
+1IG3_VIB
+1SG0_STL
+1T9B_1CS
+1U1C_BAU
+1R55_097
+1G9V_RQ3
+1IA1_TQ3
+1R9O_FLP
+########### seq smi 0.6 have 11 names ###########
+1T40_ID5
+1IG3_VIB
+1SG0_STL
+1T9B_1CS
+1U1C_BAU
+1OF6_DTY
+1R55_097
+1G9V_RQ3
+1IA1_TQ3
+1SQ5_PAU
+1R9O_FLP
+########### seq smi 0.7 have 11 names ###########
+1T40_ID5
+1IG3_VIB
+1SG0_STL
+1T9B_1CS
+1U1C_BAU
+1OF6_DTY
+1R55_097
+1G9V_RQ3
+1IA1_TQ3
+1SQ5_PAU
+1R9O_FLP
+########### seq smi 0.8 have 14 names ###########
+1T40_ID5
+1V4S_MRK
+1IG3_VIB
+1SG0_STL
+1T9B_1CS
+1U1C_BAU
+1OF6_DTY
+1Q4G_BFL
+1MMV_3AR
+1R55_097
+1G9V_RQ3
+1IA1_TQ3
+1SQ5_PAU
+1R9O_FLP
+########### seq smi 0.9 have 16 names ###########
+1T40_ID5
+1V4S_MRK
+1IG3_VIB
+1SG0_STL
+1YV3_BIT
+1T9B_1CS
+1U1C_BAU
+1OF6_DTY
+1Q4G_BFL
+1MMV_3AR
+1R55_097
+1G9V_RQ3
+1NAV_IH5
+1IA1_TQ3
+1SQ5_PAU
+1R9O_FLP
